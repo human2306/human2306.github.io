@@ -1,0 +1,19 @@
+SOURCE FILE -> WEBSITE FILE
+
+Convert HEIC files to JPG first, then rename as follows:
+
+068bdaad-18f6-4536-ac40-1003e8691286 2.JPG -> home_01.jpg
+IMG_2193 2.HEIC -> home_02.jpg
+IMG_4647 2.HEIC -> home_03.jpg
+IMG_4896 2.HEIC -> home_04.jpg
+IMG_5488 2.HEIC -> home_05.jpg
+IMG_5800 2.HEIC -> home_06.jpg
+IMG_7767 2.HEIC -> home_07.jpg
+IMG_7874 2.HEIC -> home_08.jpg
+IMG_7927 2.HEIC -> home_09.jpg
+IMG_7936 2.HEIC -> home_10.jpg
+IMG_8756 2.HEIC -> home_11.jpg
+IMG_9153 2.HEIC -> home_12.jpg
+IMG_9479 2.HEIC -> home_13.jpg
+
+Place all renamed files directly inside images/home/.
