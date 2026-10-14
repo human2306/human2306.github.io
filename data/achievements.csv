@@ -1,0 +1,7 @@
+order,year,title,place,category,image,description,link
+1,2026,Scalable Computational Phenomics,bioRxiv,Preprint,scalable_computational_phenomics.png,First-author preprint on scalable nuclear morphology phenomics.,
+2,2026,Chemical Dice Integrator,Nature Communications,Publication,nature_communications.png,Co-author on multimodal molecular representation learning.,
+3,2025,Cellular Age Prediction Protocol,STAR Protocols,Publication,star_protocols.png,Equal-contribution protocol for image-based cellular age prediction.,
+4,2025,scCamAge,Cell Reports,Publication,cell_reports.png,Context-aware prediction of cellular age and aging-associated phenotypes.,
+5,2025,AgeXtend,Nature Aging,Publication,nature_aging.png,Co-author on an explainable-AI platform for geroprotector discovery.,
+6,2019,CSIR-UGC Junior Research Fellowship,All India Rank 139,Fellowship,csir_jrf.png,National research fellowship.,
